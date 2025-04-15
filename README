@@ -22,16 +22,14 @@ Exit Game	Esc
 
     Clone this repository
 
-git clone https://github.com/RileycDickson/game-repo-name.git
+git clone https://github.com/RileycDickson/Final-Project
 
 Navigate to the project directory
-
-cd game-repo-name
 
 Install dependencies (if applicable)
 
 # Example for Python
-pip install -r requirements.txt
+pip install pygame
 
 Run the game
 
