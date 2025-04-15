@@ -7,15 +7,10 @@ A brief description of the game.
     A basic platformer where the player moves around the map collecting coins.
 
 🎮 Controls
-Action	Key/Button
-Move Up	W / ↑ Arrow
-Move Down	S / ↓ Arrow
+Action	    Key/Button
 Move Left	A / ← Arrow
 Move Right	D / → Arrow
-Shoot	Spacebar
-Pause	P
-Interact	E
-Open Inventory	I
+Spacebar    Jump
 Exit Game	Esc
 
 🛠️ Installation
