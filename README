@@ -1,10 +1,10 @@
-🎮 Game Title Here
+🎮 Basic Platformer
 📝 Description
 
 A brief description of the game.
 
     Example:
-    "Galactic Rush" is a fast-paced 2D space shooter where you dodge asteroids, blast enemies, and upgrade your ship in a quest to save the galaxy.
+    A basic platformer where the player moves around the map collecting coins.
 
 🎮 Controls
 Action	Key/Button
@@ -22,7 +22,7 @@ Exit Game	Esc
 
     Clone this repository
 
-git clone https://github.com/your-username/game-repo-name.git
+git clone https://github.com/RileycDickson/game-repo-name.git
 
 Navigate to the project directory
 
